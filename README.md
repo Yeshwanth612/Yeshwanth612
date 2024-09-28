@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning javascript and css
 - 💞️ I’m looking to collaborate on visual studio code
 - 📫 How to reach me about AI coding
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: anything 
+- ⚡ Fun fact: 
 
 <!---
 Yeshwanth612/Yeshwanth612 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
